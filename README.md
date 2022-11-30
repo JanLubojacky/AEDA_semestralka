@@ -20,9 +20,10 @@
         - Reading passage
         - Monologue
         
-- **Separate data** :white_check_mark:
-    - xls file loading is trash (at least in R, maybe matlab handles it better), it will be easier to separate the data into csv files and work with that  
-- **Prohlednout si data, udelat grafy  :x:**
+- **Separate data &#9745;**
+    - xls file loading is trash (at least in R, maybe matlab handles it better), it will be easier to separate the data into csv files and work with that
+    - Bacha, excel to vyexportoval s ";" jako separatorem, most likely to budes muset pri nacitani specifikovat
+- **Prohlednout si data, udelat grafy  &#9744;**
     - Pro UPDRS final skore?
     - Pripadne udelat dim reduction na jednotlivych skore
     - Pro clinical information mozna??
