@@ -30,7 +30,7 @@
     - Pro speech data urcite, tady bude asi nejvic uzitecne udelat redukci dimenze
     - Data maji ruzne skaly / jednotky, pro nektere metody je bude mozna treba normalizovat ci pouzit jen to co dava smysl
 
-### Hypotezy :x:
+## Hypotezy :x:
 - Rozdily mezi parkinson a sleepers : :x:
     - Na zaklade vysledku z dotazniku UPDRS_III :x:
     - Udelat nejaky statisticky testy pro rozdily mezi skupinami, zname ze cvik :x:
