@@ -20,17 +20,17 @@
         - Reading passage
         - Monologue
         
-- **Separate data &#9745;**
+- **Separate data** :white_check_mark:
     - xls file loading is trash (at least in R, maybe matlab handles it better), it will be easier to separate the data into csv files and work with that
     - Bacha, excel to vyexportoval s ";" jako separatorem, most likely to budes muset pri nacitani specifikovat
-- **Prohlednout si data, udelat grafy  &#9744;**
+- **Prohlednout si data, udelat grafy** :x:
     - Pro UPDRS final skore?
     - Pripadne udelat dim reduction na jednotlivych skore
     - Pro clinical information mozna??
     - Pro speech data urcite, tady bude asi nejvic uzitecne udelat redukci dimenze
     - Data maji ruzne skaly / jednotky, pro nektere metody je bude mozna treba normalizovat ci pouzit jen to co dava smysl
 
-### Hypotezy :x:
+## Hypotezy :x:
 - Rozdily mezi parkinson a sleepers : :x:
     - Na zaklade vysledku z dotazniku UPDRS_III :x:
     - Udelat nejaky statisticky testy pro rozdily mezi skupinami, zname ze cvik :x:
