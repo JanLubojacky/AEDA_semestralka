@@ -39,7 +39,13 @@
         - Selekce promenych (aka v cem jsou nejvetsi rozdily)
 
 ## Clustering : :hammer_and_wrench: J
+- Hotove LDA :white_check_mark:
+- PCA :x:
+- Nejake nelinearni clustrovani Isomap, UMAP?
 - Na zaklade speech dat, je tam vysoka dimenzionalita, tudiz bude potreba udelat redukci, PCA, kernel PCA, ISOMAP, UMAP, ...
+
+## Hotova feature selection pro reading a monolog dohromady :white_check_mark:
+- pomoci logisticke regrese s l1 regularizaci (a bez) se vyberou variables, ktere maji nejvetsi vliv na rozrazeni do trid
 
 ## Klasifikace : :x:
 - Jsou tam ruzne typy promenych kategoricke, count, numericke, tudiz by z toho mozna sel postavit decision tree (parkinson vs. sleeper, prip do vsech 3, ale tam nepujdou pouzit vsechny variables, protoze pro HC tam nejsou)
