@@ -45,7 +45,7 @@
 - Na zaklade speech dat, je tam vysoka dimenzionalita, tudiz bude potreba udelat redukci, PCA, kernel PCA, ISOMAP, UMAP, ...
 
 ## Hotova feature selection pro reading a monolog dohromady :white_check_mark:
-- pomoci logisticke regrese s l1 regularizaci (a bez) se vyberou variables, ktere maji nejvetsi vliv na rozrazeni do trid
+- pomoci logisticke regrese s l1 a l2 regularizicemi se vyberou variables, ktere maji nejvetsi vliv na rozrazeni do trid
 
 ## Klasifikace : :x:
 - Jsou tam ruzne typy promenych kategoricke, count, numericke, tudiz by z toho mozna sel postavit decision tree (parkinson vs. sleeper, prip do vsech 3, ale tam nepujdou pouzit vsechny variables, protoze pro HC tam nejsou)
