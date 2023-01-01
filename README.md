@@ -38,11 +38,11 @@
         - ANOVA
         - Selekce promenych (aka v cem jsou nejvetsi rozdily)
 
-## Clustering : :white_check_mark: J
-- Hotove LDA :white_check_mark:
+## Dimension redcution : :white_check_mark: J
+- Na zaklade speech dat, je tam vysoka dimenzionalita, tudiz bude potreba udelat redukci, PCA, kernel PCA, ISOMAP, UMAP, ...
+- LDA :white_check_mark:
 - PCA :white_check_mark:
 - Nejake nelinearni clustrovani Isomap, UMAP? :white_check_mark:
-- Na zaklade speech dat, je tam vysoka dimenzionalita, tudiz bude potreba udelat redukci, PCA, kernel PCA, ISOMAP, UMAP, ... :white_check_mark:
 
 ## Hotova feature selection pro reading a monolog dohromady :white_check_mark:
 - pomoci logisticke regrese s l1 a l2 regularizicemi se vyberou variables, ktere maji nejvetsi vliv na rozrazeni do trid
