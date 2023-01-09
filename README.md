@@ -3,6 +3,8 @@
 **Authors: Hlavaty, Lubojacky**
 **CVUT FEL, 2022**
 
+Prezentace:
+https://docs.google.com/presentation/d/1OgtbYg4KLLxsYM9PNC9rhcmC_UgKenjSbkglwne1Css/edit?usp=sharing
 
 ### Setup
 - Krizek :x: => neni hotove
