@@ -40,7 +40,7 @@ https://docs.google.com/presentation/d/1OgtbYg4KLLxsYM9PNC9rhcmC_UgKenjSbkglwne1
         - ANOVA
         - Selekce promenych (aka v cem jsou nejvetsi rozdily)
 
-## Dimension redcution : :white_check_mark: J
+## Dimension redcution : :white_check_mark:
 - Na zaklade speech dat, je tam vysoka dimenzionalita, tudiz bude potreba udelat redukci, PCA, kernel PCA, ISOMAP, UMAP, ...
 - LDA :white_check_mark:
 - PCA :white_check_mark:
