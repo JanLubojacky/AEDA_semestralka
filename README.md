@@ -25,7 +25,7 @@ https://docs.google.com/presentation/d/1OgtbYg4KLLxsYM9PNC9rhcmC_UgKenjSbkglwne1
 - **Separate data** :white_check_mark:
     - xls file loading is trash (at least in R, maybe matlab handles it better), it will be easier to separate the data into csv files and work with that
     - Bacha, excel to vyexportoval s ";" jako separatorem, most likely to budes muset pri nacitani specifikovat
-- **Prohlednout si data, udelat grafy** :x:
+- **Prohlednout si data, udelat grafy** ✅:
     - Pro UPDRS final skore?
     - Pripadne udelat dim reduction na jednotlivych skore
     - Pro clinical information mozna??
