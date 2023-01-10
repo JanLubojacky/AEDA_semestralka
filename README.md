@@ -32,11 +32,11 @@ https://docs.google.com/presentation/d/1OgtbYg4KLLxsYM9PNC9rhcmC_UgKenjSbkglwne1
     - Pro speech data urcite, tady bude asi nejvic uzitecne udelat redukci dimenze
     - Data maji ruzne skaly / jednotky, pro nektere metody je bude mozna treba normalizovat ci pouzit jen to co dava smysl
 
-## Hypotezy :x:
-- Rozdily mezi parkinson a sleepers : :x:
-    - Na zaklade vysledku z dotazniku UPDRS_III :x:
-    - Udelat nejaky statisticky testy pro rozdily mezi skupinami, zname ze cvik :x:
-    - Rozdily mezi vsemi skupinami na zaklade speech dat (to je asi jediny podle ceho to pujde) :x:
+## Hypotezy :white_check_mark:
+- Rozdily mezi parkinson a sleepers : :white_check_mark:
+    - Na zaklade vysledku z dotazniku UPDRS_III :white_check_mark:
+    - Udelat nejaky statisticky testy pro rozdily mezi skupinami, zname ze cvik :white_check_mark:
+    - Rozdily mezi vsemi skupinami na zaklade speech dat (to je asi jediny podle ceho to pujde) :white_check_mark:
         - ANOVA
         - Selekce promenych (aka v cem jsou nejvetsi rozdily)
 
